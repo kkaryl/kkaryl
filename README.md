@@ -1,6 +1,8 @@
 ### Hi there 👋
-
+<!-- https://github.com/estruyf/github-visitors-badge -->
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=kkaryl&repo=kkaryl&countColor=%237B1E7A)
 <!--
+
 **kkaryl/kkaryl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
